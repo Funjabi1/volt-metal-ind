@@ -1,0 +1,10 @@
+/* src/components/Products.css */
+.products-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #f0f2f5;
+}
+
+.view-more {
+  margin-top: 20px;
+}

@@ -1,0 +1,27 @@
+/* src/components/About.css */
+.about-section {
+    display: flex;
+    padding: 2em;
+    background-color: #f9f9f9;
+  }
+  
+  .about-text {
+    flex: 1;
+  }
+  
+  .highlight {
+    color: yellow;
+    font-weight: bold;
+  }
+  
+  .read-more {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 0.5em 1em;
+  }
+  
+  .about-image img {
+    max-width: 100%;
+  }
+  
